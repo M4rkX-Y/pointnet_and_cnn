@@ -2,13 +2,17 @@
 
 ## Abstract
 
-While classification using machine learning is exceptionally successful with 2D images, it is more challenging to classify 3D objects. However, 3D objects classification is critical because of its application in autonomous vehicles and robotics. This paper compared neural networks with similar structures using 3D point clouds and 2D images on the same objects. We also generated objects with abstract design and input them into the neural networks we created. We find clear disadvantages with classifying abstract objects compared to ordinary objects for both neural networks. We believe having contextual information will help to address this problem. We also observed that the neural network based on images performs worse than that based on point clouds. However, image based classification takes less time to train compared to point cloud based classification.
 <p align="center">
 <img src='Screenshot 2024-01-11 165912.png' width='500'>
 </p>
 
+While classification using machine learning is exceptionally successful with 2D images, it is more challenging to classify 3D objects. However, 3D objects classification is critical because of its application in autonomous vehicles and robotics. This paper compared neural networks with similar structures using 3D point clouds and 2D images on the same objects. We also generated objects with abstract design and input them into the neural networks we created. We find clear disadvantages with classifying abstract objects compared to ordinary objects for both neural networks. We believe having contextual information will help to address this problem. We also observed that the neural network based on images performs worse than that based on point clouds. However, image based classification takes less time to train compared to point cloud based classification.
+
 ## Models Architecture
+
+<p align="center">
 <img src='Screenshot 2024-01-11 165930.png' width='500'>
+</p>
 
 ## Website
 
